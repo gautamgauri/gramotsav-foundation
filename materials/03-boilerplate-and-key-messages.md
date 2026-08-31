@@ -47,17 +47,29 @@ We promise nobody a job. We do lay out the actual routes — performance, teachi
 | a costed budget is prepared per site | our project costs ₹X *(until a site is agreed)* |
 | students as musicians, creators, performers | beneficiaries / the underprivileged |
 
-## Numbers discipline — important
+## Our numbers
 
-We are five months old. **We currently have no verified participant counts, attendance figures or outcome percentages published.** Do not invent them, round them up, or repeat a figure that has not come from a facilitator's records.
+These are the foundation's figures, from our own CSR and partnership profile. Use them as written; do not round them up, and do not invent new ones.
 
-What we *can* say with confidence right now:
+| Figure | Use |
+|---|---|
+| **2,000+** | Children reached across all artistic, cultural, educational and community initiatives |
+| **100+** | Children currently engaged |
+| **12** | Fellows on the most recent project |
+| **10 of 12** | Fellows who are women |
+| **10+** | Artists engaged |
+| **Patna, Bihar** | Current base |
+
+Two things to hold in mind when a funder digs in:
+
+- The Learning Through Music closure report documents its outcomes **qualitatively** and carries no counts of its own. The 2,000+ figure covers all our initiatives, not that one project. Say so if asked; do not attach it to a single programme.
+- A serious diligence team will ask what period the 2,000 covers and how it was counted. Have the answer ready before the question comes.
+
+Everything else about us is checkable on paper:
 - Registered 19 March 2026 as a Section 8 company
-- One project designed, delivered and formally closed with a published report
-- Four governance policies adopted and in force since 1 April 2026
+- One project designed, delivered and formally closed, with a published report
+- Four governance policies in force since 1 April 2026
 - Tax registration and donor-deduction approval granted 24 August 2026
-
-When participant numbers are counted and verified, add them here first, then everywhere else.
 
 ## Photo and consent discipline
 

@@ -12,8 +12,7 @@ NAV = [
     ("index.html", "Home"),
     ("our-story.html", "Our Story"),
     ("programmes.html", "Programmes"),
-    ("learning-through-music.html", "Learning Through Music"),
-    ("blind-school-project.html", "Blind School Project"),
+    ("impact.html", "Impact"),
     ("contact.html", "Contact"),
 ]
 
@@ -45,7 +44,7 @@ HEAD = """<!DOCTYPE html>
 <meta property="og:description" content="{desc}" />
 <meta property="og:type" content="website" />
 <meta property="og:image" content="logo.png" />
-<link rel="icon" href="logo.svg" type="image/svg+xml" />
+<link rel="icon" href="logo.png" type="image/png" />
 <link rel="apple-touch-icon" href="logo.png" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -57,7 +56,7 @@ HEAD = """<!DOCTYPE html>
 <header class="site-header">
   <nav class="nav">
     <a class="brand" href="index.html">
-      <img class="brand-logo" src="logo.svg" alt="Gramotsav Foundation logo" />
+      <img class="brand-logo" src="logo.png" alt="Gramotsav Foundation logo" />
       <span class="brand-name">Gramotsav<span>Foundation · Patna</span></span>
     </a>
     <button class="nav-toggle" aria-label="Menu" aria-expanded="false">&#9776;</button>
@@ -75,7 +74,7 @@ FOOT = """
     <div class="footer-grid">
       <div>
         <a class="brand" href="index.html" style="margin-bottom:14px;">
-          <img class="brand-logo" src="logo.svg" alt="Gramotsav Foundation logo" />
+          <img class="brand-logo" src="logo.png" alt="Gramotsav Foundation logo" />
           <span class="brand-name" style="color:#fff;">Gramotsav<span>Foundation · Patna</span></span>
         </a>
         <p style="max-width:36ch;">A Section 8 non-profit in Patna. Folk culture, inclusive learning, and a route from creative skill towards a living. <span class="devnagri">मिट्टी से मंच तक</span>.</p>
@@ -87,9 +86,10 @@ FOOT = """
       <div>
         <h4>Explore</h4>
         <a href="our-story.html">Our Story</a>
-        <a href="programmes.html">Programmes</a>
+        <a href="impact.html">Vision, Mission &amp; Impact</a>
         <a href="learning-through-music.html">Learning Through Music</a>
         <a href="blind-school-project.html">Blind School Project</a>
+        <a href="music-beyond-vision.html">Music &amp; Art Beyond Vision</a>
       </div>
       <div>
         <h4>Get Involved</h4>
@@ -179,9 +179,9 @@ PAGES["index.html"] = dict(
       <a href="support.html" class="btn btn--green">Partner With Us</a>
     </div>
     <div class="hero-stats">
-      <div class="hero-stat"><b>2026</b><span>Registered in Patna</span></div>
-      <div class="hero-stat"><b>1</b><span>Project completed</span></div>
-      <div class="hero-stat"><b>Sec&nbsp;8</b><span>Non-profit company</span></div>
+      <div class="hero-stat"><b>2,000+</b><span>Children reached</span></div>
+      <div class="hero-stat"><b>12</b><span>Fellows, 10 of them women</span></div>
+      <div class="hero-stat"><b>10+</b><span>Artists engaged</span></div>
     </div>
   </div>
 </section>
@@ -237,7 +237,7 @@ PAGES["index.html"] = dict(
 <section class="section">
   <div class="container section-head">
     <span class="eyebrow">What We Do</span>
-    <h2>Two projects, one idea</h2>
+    <h2>Three projects, one idea</h2>
   </div>
   <div class="container">
     <div class="grid grid-2">
@@ -260,6 +260,16 @@ PAGES["index.html"] = dict(
         </div>
       </div>
     </div>
+    <div class="grid" style="margin-top:28px;">
+      <div class="card">
+        <div class="card-body">
+          <span class="pill pill--open">With government</span>
+          <h3>Music Beyond Vision &amp; Art Beyond Vision</h3>
+          <p>A Music and Creative Arts Club inside a government or school space, proposed to the Department of Social Welfare. The department gives a room and instructor support; we bring the curriculum, the facilitation and the artists.</p>
+          <a href="music-beyond-vision.html" class="btn btn--ghost" style="margin-top:14px;">Read the proposal &rarr;</a>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
 
@@ -279,6 +289,45 @@ PAGES["index.html"] = dict(
       <a href="img/classroom-activity.jpg" target="_blank"><img src="img/classroom-activity.jpg" alt="Students working together during a classroom activity" loading="lazy" /></a>
       <a href="img/guitar-community.jpg" target="_blank"><img src="img/guitar-community.jpg" alt="A guitar session with young children in a community space" loading="lazy" /></a>
       <a href="img/fellowship-launch.jpg" target="_blank"><img src="img/fellowship-launch.jpg" alt="The Learning Through Music Fellowship launch event" loading="lazy" /></a>
+    </div>
+  </div>
+</section>
+
+<!-- IMPACT -->
+<section class="section section--navy">
+  <div class="container section-head">
+    <span class="eyebrow">Our Impact</span>
+    <h2>Talent is everywhere. Opportunity is not.</h2>
+    <p class="lead mx-auto">Gramotsav has worked with nearly 2,000 children through its artistic, cultural, educational and community initiatives.</p>
+  </div>
+  <div class="container">
+    <div class="impact">
+      <div><div class="n">2,000+</div><div class="l">Children reached</div></div>
+      <div><div class="n">100+</div><div class="l">Currently engaged</div></div>
+      <div><div class="n">12</div><div class="l">Fellows, most recent project</div></div>
+      <div><div class="n">10</div><div class="l">Women among those 12</div></div>
+      <div><div class="n">10+</div><div class="l">Artists engaged</div></div>
+      <div><div class="n">Patna</div><div class="l">Our base, in Bihar</div></div>
+    </div>
+    <div class="btn-row center" style="margin-top:30px;">
+      <a href="impact.html" class="btn btn--light">Vision, mission and what the numbers mean &rarr;</a>
+    </div>
+  </div>
+</section>
+
+<!-- PARTNERS -->
+<section class="section section--tight">
+  <div class="container section-head" style="margin-bottom:28px;">
+    <span class="eyebrow">We Work With</span>
+    <h2>Partner organisations</h2>
+  </div>
+  <div class="container" style="max-width:1000px;">
+    <div class="partners">
+      <span><img src="img/partners/manzil-mystics.png" alt="Manzil Mystics Foundation" loading="lazy" /></span>
+      <span><img src="img/partners/diksha.png" alt="Diksha Foundation" loading="lazy" /></span>
+      <span><img src="img/partners/kilkari.png" alt="Kilkari Bihar Bal Bhavan" loading="lazy" /></span>
+      <span><img src="img/partners/hhfc-trust.png" alt="HHFC Trust" loading="lazy" /></span>
+      <span><img src="img/partners/kala-talks.png" alt="Kala Talks" loading="lazy" /></span>
     </div>
   </div>
 </section>
@@ -383,7 +432,7 @@ PAGES["our-story.html"] = dict(
 PAGES["programmes.html"] = dict(
     title="Programmes — Gramotsav Foundation",
     desc="Gramotsav Foundation's programmes: Learning Through Music (completed), the Blind School Project (seeking partners), and our folk culture and community work in Bihar.",
-    body=banner("Programmes", "Two projects and one method. Both of them run from mitti to manch, along the same arc.") + """
+    body=banner("Programmes", "Three projects and one method. Each of them runs from mitti to manch, along the same arc.") + """
 <section class="section">
   <div class="container section-head">
     <span class="eyebrow">The Method</span>
@@ -416,6 +465,18 @@ PAGES["programmes.html"] = dict(
         <p style="margin-top:12px;">A model for blind and visually impaired students that reaches past classroom support: accessible academic material, assistive technology and digital literacy, mobility and independent-living skills, music and the arts, sports and wellbeing, career and vocational exposure, with parent, teacher and community engagement around all of it.</p>
         <p style="margin-top:12px;">Eight phases over a first year, with a defined monitoring framework and an explicit sustainability strategy, so a school, NGO or CSR partner can take the model on instead of depending on us to run it forever.</p>
         <a href="blind-school-project.html" class="btn btn--ghost" style="margin-top:16px;">Read the concept note &rarr;</a>
+      </div>
+    </div>
+
+    <div class="story">
+      <div class="story-media"><img src="img/keyboard-teaching.jpg" alt="A facilitator teaching a music session at the keyboard" /></div>
+      <div>
+        <span class="pill pill--open">With government</span>
+        <h3>Music Beyond Vision &amp; Art Beyond Vision</h3>
+        <p class="kicker">A club inside a government space</p>
+        <p style="margin-top:12px;">A Music and Creative Arts Club for children and young people with visual impairment, proposed to the Department of Social Welfare. The department provides a room, whatever instruments exist, and instructor honorarium support. We bring the audio-first curriculum, the facilitation, the artists, the band work and the documentation.</p>
+        <p style="margin-top:12px;">Twelve months, from setting up the room to mapping out where each student could go next. Built on infrastructure the institution already has, so it does not fall over when a grant ends.</p>
+        <a href="music-beyond-vision.html" class="btn btn--ghost" style="margin-top:16px;">Read the proposal &rarr;</a>
       </div>
     </div>
   </div>
@@ -1098,6 +1159,288 @@ PAGES["contact.html"] = dict(
     <span class="eyebrow">A Small Note</span>
     <h2 style="font-size:1.6rem;">We are a young organisation and we answer our own email</h2>
     <p class="lead mx-auto">Gramotsav was registered in March 2026. There is no press office. Write with a real question and you will get a real answer, usually within a few working days.</p>
+  </div>
+</section>
+""" + CTA)
+
+
+# ---------------------------------------------------------------- IMPACT ---
+PAGES["impact.html"] = dict(
+    title="Vision, Mission & Impact — Gramotsav Foundation",
+    desc="Gramotsav Foundation's vision and mission, our reach so far, our five focus areas and our partnership philosophy. Talent is everywhere; opportunity is not.",
+    body=banner("Vision, Mission &amp; Impact", "What we are trying to build, how far we have got, and what a partner would be buying into.") + """
+<section class="section">
+  <div class="container">
+    <div class="vm">
+      <div>
+        <span class="eyebrow">Vision</span>
+        <h3>An inclusive, culturally confident society</h3>
+        <p>Every person should get the chance to find their talent, build a skill, say something of their own, and then find somewhere to take it. We want art, music, culture and creative skill treated as real tools for education, confidence, inclusion, community and a living.</p>
+        <p style="margin-top:12px;">Talent from the soil of a community, all the way to a stage worth standing on. <span class="devnagri">मिट्टी से मंच तक</span>.</p>
+      </div>
+      <div>
+        <span class="eyebrow">Mission</span>
+        <h3>Art, culture, education, inclusion, livelihood</h3>
+        <ul>
+          <li>Make creative and artistic learning reachable for children and communities that have had little of it.</li>
+          <li>Use music, art and culture for learning, confidence, expression and inclusion.</li>
+          <li>Find grassroots talent that stays unseen for social, economic, geographic or physical reasons.</li>
+          <li>Build routes from learning to practice, performance, opportunity and livelihood.</li>
+          <li>Make platforms where young people can express themselves properly.</li>
+          <li>Give emerging artists, fellows and facilitators real creative work.</li>
+          <li>Keep local culture in use, and connect it to what exists now.</li>
+          <li>Build models other schools, institutions and communities can copy.</li>
+          <li>Work with CSR partners, government, institutions, artists and communities.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--soft">
+  <div class="container section-head">
+    <span class="eyebrow">Reach So Far</span>
+    <h2>Where we have got to</h2>
+    <p class="lead mx-auto">Gramotsav Foundation has already worked with nearly 2,000 children through its various artistic, cultural, educational and community-based initiatives.</p>
+  </div>
+  <div class="container" style="max-width:900px;">
+    <div class="impact">
+      <div><div class="n">2,000+</div><div class="l">Children reached</div></div>
+      <div><div class="n">100+</div><div class="l">Children currently engaged</div></div>
+      <div><div class="n">12</div><div class="l">Fellows in most recent project</div></div>
+      <div><div class="n">10</div><div class="l">Women fellows, of 12</div></div>
+      <div><div class="n">10+</div><div class="l">Artists engaged</div></div>
+      <div><div class="n">Patna</div><div class="l">Current base, Bihar</div></div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container section-head">
+    <span class="eyebrow">What the Numbers Represent</span>
+    <h2>Attendance is not the point</h2>
+    <p class="lead mx-auto">A head count only tells you who turned up. What we are actually trying to move a young person through is this.</p>
+  </div>
+  <div class="container">
+    <div class="journey">
+      <span>Discover</span><i>&rarr;</i><span>Learn</span><i>&rarr;</i><span>Create</span><i>&rarr;</i>
+      <span>Perform</span><i>&rarr;</i><span>Connect</span><i>&rarr;</i><span>Grow</span><i>&rarr;</i><span>Opportunity</span>
+    </div>
+    <div class="table-wrap" style="margin-top:34px;max-width:820px;margin-left:auto;margin-right:auto;">
+      <table class="tbl">
+        <tbody>
+          <tr><td class="k"><strong>Discover</strong></td><td>Finding talent and creative potential.</td></tr>
+          <tr><td class="k"><strong>Learn</strong></td><td>Accessible chances to build a skill.</td></tr>
+          <tr><td class="k"><strong>Create</strong></td><td>Imagination, experiment, saying your own thing.</td></tr>
+          <tr><td class="k"><strong>Perform</strong></td><td>Showing that skill to a real audience.</td></tr>
+          <tr><td class="k"><strong>Connect</strong></td><td>Relationships with artists, communities, institutions.</td></tr>
+          <tr><td class="k"><strong>Grow</strong></td><td>Confidence, leadership, identity.</td></tr>
+          <tr><td class="k"><strong>Opportunity</strong></td><td>Routes into further study, performance, work, enterprise.</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section class="section section--soft">
+  <div class="container section-head">
+    <span class="eyebrow">Focus Areas</span>
+    <h2>Five things we work on</h2>
+  </div>
+  <div class="container" style="max-width:920px;">
+    <div class="focus">
+      <article><div class="num">01</div><div>
+        <h3>Children &amp; creative learning</h3>
+        <p>Every child deserves a way into creativity. Music, art and performance used to build learning, confidence, communication, teamwork and imagination.</p>
+      </div></article>
+      <article><div class="num">02</div><div>
+        <h3>Inclusion through art</h3>
+        <p>Art can make a room where difference becomes a strength. We build accessible creative work for children and communities that conventional learning does not reach.</p>
+      </div></article>
+      <article><div class="num">03</div><div>
+        <h3>Grassroots talent</h3>
+        <p>India has enormous artistic talent well outside the big cultural institutions and the metros. We look for it, and connect it to mentors, platforms and audiences.</p>
+      </div></article>
+      <article><div class="num">04</div><div>
+        <h3>Youth &amp; fellowship</h3>
+        <p>Our fellowships put young people to work with communities: learning, leading, contributing. Ten of the twelve fellows on our most recent project were women.</p>
+      </div></article>
+      <article><div class="num">05</div><div>
+        <h3>Artists &amp; livelihood</h3>
+        <p>An artist is also a teacher, a mentor, a facilitator, a community builder. We create work for artists in teaching, mentoring, performance and cultural programming.</p>
+      </div></article>
+    </div>
+  </div>
+</section>
+
+<section class="section section--navy section--tight">
+  <div class="container">
+    <p class="pull" style="color:#fff;max-width:26ch;">Talent is everywhere. Opportunity is not.</p>
+    <p class="lead mx-auto center" style="margin-top:18px;">Nobody has to be born comfortable to be extraordinary. Usually what is missing is not the talent. It is access, a mentor, a platform, a chance.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container section-head">
+    <span class="eyebrow">We Work With</span>
+    <h2>Partner organisations</h2>
+  </div>
+  <div class="container" style="max-width:1000px;">
+    <div class="partners">
+      <span><img src="img/partners/manzil-mystics.png" alt="Manzil Mystics Foundation" loading="lazy" /></span>
+      <span><img src="img/partners/diksha.png" alt="Diksha Foundation" loading="lazy" /></span>
+      <span><img src="img/partners/kilkari.png" alt="Kilkari Bihar Bal Bhavan" loading="lazy" /></span>
+      <span><img src="img/partners/hhfc-trust.png" alt="HHFC Trust" loading="lazy" /></span>
+      <span><img src="img/partners/kala-talks.png" alt="Kala Talks" loading="lazy" /></span>
+    </div>
+  </div>
+</section>
+
+<section class="section section--soft">
+  <div class="container section-head">
+    <span class="eyebrow">Partnership Philosophy</span>
+    <h2>We are not only after money</h2>
+    <p class="lead mx-auto">We want long partnerships with people who want the impact to be real and measurable. Six things a partner can bring, and money is one of them.</p>
+  </div>
+  <div class="container" style="max-width:920px;">
+    <div class="grid grid-3">
+      <div class="callout note"><strong>Space</strong><p style="margin-top:6px;">A safe, reachable place where children can learn and make things.</p></div>
+      <div class="callout note"><strong>Resources</strong><p style="margin-top:6px;">Instruments, art materials, technology, learning material.</p></div>
+      <div class="callout note"><strong>People</strong><p style="margin-top:6px;">Trainers, artists, facilitators, fellows and mentors.</p></div>
+      <div class="callout note"><strong>Programmes</strong><p style="margin-top:6px;">Structured creative learning and community work.</p></div>
+      <div class="callout note"><strong>Opportunities</strong><p style="margin-top:6px;">Performances, showcases, fellowships, livelihood routes.</p></div>
+      <div class="callout note"><strong>Scale</strong><p style="margin-top:6px;">Taking what works to more communities and institutions.</p></div>
+    </div>
+  </div>
+</section>
+""" + CTA)
+
+# ------------------------------------------------- MUSIC BEYOND VISION -----
+PAGES["music-beyond-vision.html"] = dict(
+    title="Music & Art Beyond Vision — Gramotsav Foundation",
+    desc="Music Beyond Vision & Art Beyond Vision: Gramotsav Foundation's proposal for a Music and Creative Arts Club for children with visual impairment, in partnership with the Department of Social Welfare.",
+    body=banner("Music &amp; Art Beyond Vision", "A Music and Creative Arts Club for children and young people with visual impairment, proposed in partnership with government.") + """
+<section class="section">
+  <div class="container prose">
+    <span class="pill pill--open">Proposal &middot; seeking a government partner</span>
+    <h2>What we are proposing</h2>
+    <p>A dedicated Music and Creative Arts Club inside an existing school, government institution or suitable community space. A room where children and young people with visual impairment can learn, practise, make things together, explore where they come from, and perform.</p>
+    <p>Students are pushed past learning on their own and towards making music together: ensembles, student bands, group performances, creative projects, cultural presentations.</p>
+    <div class="journey" style="margin:26px 0;">
+      <span>Discover</span><i>&rarr;</i><span>Learn</span><i>&rarr;</i><span>Practise</span><i>&rarr;</i><span>Create</span><i>&rarr;</i>
+      <span>Collaborate</span><i>&rarr;</i><span>Perform</span><i>&rarr;</i><span>Build skills</span><i>&rarr;</i><span>Livelihood</span>
+    </div>
+
+    <h3>Why music and arts work here</h3>
+    <p>These can be taught by listening, by voice, by touch, by demonstration, by repetition, by memory and by doing. None of that needs a printed page. So the programme is audio-first and practical rather than a conventional written classroom, and it does not depend on Braille-based music instruction.</p>
+
+    <h3>Objectives</h3>
+    <ul>
+      <li>Create a safe, inclusive and accessible creative space for children with visual impairment.</li>
+      <li>Provide audio-first and practical learning in music and the arts.</li>
+      <li>Teach instruments through listening, spoken instruction and practice.</li>
+      <li>Open up expression through music, tactile arts, storytelling and theatre.</li>
+      <li>Build group learning, collaboration and student-led bands.</li>
+      <li>Connect children with regional, folk and Indian traditions.</li>
+      <li>Give them stage performance and public expression.</li>
+      <li>Introduce digital and audio skills where it fits.</li>
+      <li>Show music and the arts as possible livelihood routes.</li>
+    </ul>
+  </div>
+</section>
+
+<section class="section section--soft">
+  <div class="container" style="max-width:900px;">
+    <span class="eyebrow">Curriculum</span>
+    <h2 style="margin-bottom:22px;">How the teaching runs</h2>
+    <div class="table-wrap">
+      <table class="tbl">
+        <thead><tr><th>Method</th><th>Application</th></tr></thead>
+        <tbody>
+          <tr><td><strong>Listening</strong></td><td>Guided listening to songs, instruments, rhythm and musical patterns.</td></tr>
+          <tr><td><strong>Audio demonstration</strong></td><td>Demonstration of musical phrases, patterns and instrument techniques.</td></tr>
+          <tr><td><strong>Spoken instruction</strong></td><td>Step-by-step verbal explanation of exercises and techniques.</td></tr>
+          <tr><td><strong>Call &amp; response</strong></td><td>Students listen and reproduce musical phrases and rhythms.</td></tr>
+          <tr><td><strong>Repetition</strong></td><td>Repeated riyaz to strengthen familiarity, memory and confidence.</td></tr>
+          <tr><td><strong>Rhythm cues</strong></td><td>Auditory and verbal cues support timing and coordination.</td></tr>
+          <tr><td><strong>Hands-on practice</strong></td><td>Students practise the instruments directly, with guidance.</td></tr>
+          <tr><td><strong>Recorded practice</strong></td><td>Audio material supports practice outside the sessions.</td></tr>
+          <tr><td><strong>Performance</strong></td><td>Performing is used as a learning milestone, not a display.</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h2 style="margin:46px 0 22px;">Twelve months</h2>
+    <div class="table-wrap">
+      <table class="tbl">
+        <thead><tr><th>Phase</th><th>Period</th><th>Activities</th></tr></thead>
+        <tbody>
+          <tr><td class="k"><strong>Preparation</strong></td><td>Month 1</td><td>Space, student identification, resource planning, orientation</td></tr>
+          <tr><td class="k"><strong>Discovery</strong></td><td>Months 1&ndash;2</td><td>Music and arts exploration; identifying interests and abilities</td></tr>
+          <tr><td class="k"><strong>Foundation learning</strong></td><td>Months 2&ndash;4</td><td>Audio-first music and practical creative learning</td></tr>
+          <tr><td class="k"><strong>Collaboration</strong></td><td>Months 4&ndash;6</td><td>Ensembles, group activities, band formation</td></tr>
+          <tr><td class="k"><strong>Creation &amp; culture</strong></td><td>Months 7&ndash;9</td><td>Original work, folk and cultural learning, creative projects</td></tr>
+          <tr><td class="k"><strong>Performance</strong></td><td>Months 10&ndash;11</td><td>Rehearsals, showcases, outside exposure</td></tr>
+          <tr><td class="k"><strong>Evaluation &amp; pathways</strong></td><td>Month 12</td><td>Documentation, mentoring, mapping opportunities</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container" style="max-width:900px;">
+    <span class="eyebrow">The Partnership</span>
+    <h2 style="margin-bottom:16px;">Who brings what</h2>
+    <p class="lead" style="margin-bottom:24px;">The model is built to use what a government institution already has, rather than to duplicate it.</p>
+    <div class="table-wrap">
+      <table class="tbl">
+        <thead><tr><th>Department of Social Welfare</th><th>Gramotsav Foundation</th></tr></thead>
+        <tbody>
+          <tr><td>One suitable room or shared space</td><td>Curriculum and programme design</td></tr>
+          <tr><td>Musical instruments, where available</td><td>Music and arts facilitation</td></tr>
+          <tr><td>Basic creative materials, where available</td><td>Student engagement and mentoring</td></tr>
+          <tr><td>Instructor honorarium support, subject to norms</td><td>Band formation and creative activities</td></tr>
+          <tr><td>Institutional coordination</td><td>Cultural learning, performance, documentation</td></tr>
+          <tr><td>Convergence with relevant schemes</td><td>Linkages to artists, mentors and opportunities</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3 style="margin-top:40px;">What the room needs</h3>
+    <ul style="margin-left:20px;">
+      <li style="margin-bottom:6px;">One dedicated room, or a suitable shared one</li>
+      <li style="margin-bottom:6px;">Instruments chosen around what the students want to play</li>
+      <li style="margin-bottom:6px;">A basic audio system, microphones and headphones</li>
+      <li style="margin-bottom:6px;">Accessible digital and audio learning equipment where possible</li>
+      <li style="margin-bottom:6px;">Basic art and creative materials</li>
+      <li style="margin-bottom:6px;">Safe storage for instruments and materials</li>
+      <li style="margin-bottom:6px;">Seating that can be moved around for practice</li>
+    </ul>
+  </div>
+</section>
+
+<section class="section section--soft">
+  <div class="container prose">
+    <span class="eyebrow">Measurement</span>
+    <h2>What we will track</h2>
+    <ul>
+      <li>Student enrolment and attendance</li>
+      <li>Individual learning and participation profiles</li>
+      <li>Progress in musical and creative skills, and consistency of riyaz</li>
+      <li>Participation in group activities, and the number of ensembles or bands formed</li>
+      <li>Creative outputs and performances</li>
+      <li>Confidence and communication indicators</li>
+      <li>Cultural participation, and mentor and facilitator observations</li>
+      <li>Exposure to professional opportunities</li>
+    </ul>
+
+    <h3>Sustainability</h3>
+    <p>The programme is designed as a collaborative model on existing institutional infrastructure wherever possible. It holds up longer through government convergence, CSR partnerships, cultural collaborations, professional mentors, performance opportunities, and a student and alumni network.</p>
+
+    <div class="note" style="margin-top:30px;">
+      <strong>Interested departments and institutions.</strong> The full proposal, with the curriculum detail and the departmental support request, is available on letterhead. <a href="contact.html">Write to us</a> and we will send it and come and present it.
+    </div>
   </div>
 </section>
 """ + CTA)

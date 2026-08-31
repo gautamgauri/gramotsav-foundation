@@ -62,3 +62,15 @@ All factual content is drawn from Gramotsav Foundation's own documents (shared 3
 - [ ] **Learning Through Music.** Confirm the project ran with a named partner school, and whether that school and any collaborating organisation should be credited.
 - [ ] **Participant numbers.** The site deliberately claims none. Add verified figures when they exist.
 - [ ] **Custom domain**, if wanted — add a `CNAME` file.
+
+## Update — 31 August 2026
+
+James shared a second round of material, now reflected on the site:
+
+- **Real logo** installed (`logo.png`), replacing the placeholder mark. The whole palette was retuned off it — forest and olive green, marigold orange, earth brown on warm cream.
+- **Vision, mission, reach figures, the seven-stage journey, five focus areas and the partnership philosophy** now live on a new `impact.html`, from the CSR & Philanthropy Partnership Profile.
+- **Partner logos** — Manzil Mystics, Diksha, Kilkari Bihar Bal Bhavan, HHFC Trust, Kala Talks — on the home and impact pages.
+- **A third programme**, `music-beyond-vision.html`, from the Department of Social Welfare proposal.
+- **Reach figures published**: 2,000+ children reached, 100+ currently engaged, 12 fellows (10 women), 10+ artists. Owner-approved, published as the foundation states them.
+
+Still outstanding: see the checklist above, plus **partner logo permission** — each organisation should confirm before its mark stays on a public site.

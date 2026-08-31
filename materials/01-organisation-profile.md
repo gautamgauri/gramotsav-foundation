@@ -21,6 +21,23 @@ Our work joins three things: the folk traditions of rural and indigenous India, 
 3. Collaborate with indigenous communities and relevant institutions to integrate arts and culture into educational programmes, fostering holistic wellbeing.
 4. Promote gender equality by establishing institutional resource centres and community spaces that host educational and cultural activities.
 
+## Vision
+
+An inclusive, culturally confident society where everyone gets a chance to find their talent, build a skill, say something of their own, and take it somewhere. Art, music, culture and creative skill treated as real tools for education, confidence, inclusion, community and a living. Talent from the soil of a community to a stage worth standing on.
+
+## Reach so far
+
+| | |
+|---|---|
+| Children reached | 2,000+ |
+| Children currently engaged | 100+ |
+| Fellows on most recent project | 12 |
+| Women fellows | 10 of 12 |
+| Artists engaged | 10+ |
+| Current base | Patna, Bihar |
+
+*Figures cover all our artistic, cultural, educational and community initiatives.*
+
 ## The method
 
 Every programme moves a learner along the same arc:
@@ -35,6 +52,10 @@ We measure progress by how far along that arc a young person travels.
 An audio-first music programme for children and young people with visual impairment. Instrument instruction did not depend on Braille notation. Students learned through guided listening, audio demonstration, spoken instruction, repetition, rhythmic cues, musical memory and hands-on practice, moving from solo riyaz into ensemble and band work, with a repertoire drawn from the Bhojpuri, Maithili and Magahi traditions.
 
 A full impact and closure report (approach, journey, outcomes, key learnings and legacy) is published on our website.
+
+## Also in the pipeline
+
+**Music Beyond Vision & Art Beyond Vision** — a Music and Creative Arts Club for children and young people with visual impairment, proposed in partnership with the Department of Social Welfare. The department provides a room, available instruments and instructor honorarium support; we bring the audio-first curriculum, facilitation, artists, band work and documentation. Twelve months, with a defined M&E framework.
 
 ## What we are raising for
 
@@ -78,5 +99,6 @@ Structured in eight implementation phases across a first year, with a defined mo
 
 **Email:** gramotsavfoundation@gmail.com
 **Instagram:** @gramotsavfoundation
+**Partner organisations:** Manzil Mystics Foundation · Diksha Foundation · Kilkari Bihar Bal Bhavan · HHFC Trust · Kala Talks
 **Website:** https://gautamgauri.github.io/gramotsav-foundation/
 **Address:** C/o Suraj Kumar, A. K. Road, Machuatoli, Patna Sadar, Patna – 800016, Bihar, India
