@@ -43,7 +43,7 @@ Run these over roughly three weeks. Each has a suggested image from the site's `
 
 > The **gramotsav** is the day the whole gaon turns out. Somebody sings, somebody plays, and the old stories get handed on for another year.
 >
-> It is also where a good many children work out, for the first time, that they have something worth saying out loud.
+> It's also where a good many children work out, for the first time, that they have something worth saying out loud.
 >
 > We took the name because we think that is roughly how children learn best.
 >
@@ -80,13 +80,13 @@ Run these over roughly three weeks. Each has a suggested image from the site's `
 
 ### Post 5 — What's next *(image: classroom-activity.jpg)*
 
-> Music got us into the room. On its own it is not enough.
+> Music got us into the room. On its own it isn't enough.
 >
 > A student also needs accessible textbooks. A screen reader they can actually drive. Mobility skills. Somebody to talk to about a career.
 >
 > The **Blind School Project** is all of it: accessible learning, assistive technology, life skills, music and arts, sports, career exposure. Inside a school that already exists, so the teachers there own it after we go.
 >
-> The concept note is public. We are looking for CSR and institutional partners.
+> The concept note is public. We're looking for CSR and institutional partners.
 
 ### Post 6 — The ask *(image: guitar-community.jpg)*
 
@@ -105,13 +105,13 @@ Run these over roughly three weeks. Each has a suggested image from the site's `
 
 ## Ongoing content pillars
 
-Rotate these so the feed does not turn into one long fundraising appeal.
+Rotate these so the feed doesn't turn into one long fundraising appeal.
 
 1. **Session moments** — a photo from a real baithak, one plain sentence under it. No stock captions.
 2. **One idea from the method** — take a single teaching technique and explain it properly.
 3. **The tradition** — a lok geet, an instrument, a story, and why it is in the curriculum.
 4. **Student work** — a performance clip or recording, with consent. Credit the young person as a musician.
-5. **What we learned** — something that did not work, and what we changed.
+5. **What we learned** — something that didn't work, and what we changed.
 6. **The ask** — one specific need. Never a vague "please donate".
 
 **Suggested rhythm:** 2 posts a week. Pillars 1–5 four times for every one of pillar 6.
@@ -137,8 +137,8 @@ Rotate these so the feed does not turn into one long fundraising appeal.
 ## Caption rules
 
 - **Lead with what the child is doing, not with their condition.** "He has been on the same taal for three weeks" beats "a visually impaired boy learns music".
-- **One idea per post.** If it needs two, it is two posts.
+- **One idea per post.** If it needs two, it's two posts.
 - **No inspiration-porn framing.** Nobody is "an inspiration" for existing.
-- **Never use a number we have not counted.** See the numbers discipline note in `03-boilerplate-and-key-messages.md`.
+- **Never use a number we haven't counted.** See the numbers discipline note in `03-boilerplate-and-key-messages.md`.
 - **Consent before posting** — parent or guardian *and* school, every time.
 - **Credit the young person as a musician**, by first name only, and only with consent.
