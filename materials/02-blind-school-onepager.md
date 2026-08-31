@@ -8,7 +8,7 @@
 
 Blind and visually impaired students in Bihar face compounding barriers. Conventional textbooks, digital content and classroom resources are not built for them. Braille, audio and screen-reader compatible material is limited or expensive. And even where academic access improves, students still lack the mobility, communication, digital and independent-living skills that decide whether education translates into a life.
 
-Meanwhile, the things that build confidence and belonging — music, theatre, sport, cultural participation — are treated as optional extras rather than as part of how a child learns to be present in the world.
+Meanwhile the things that build confidence and belonging (music, theatre, sport, cultural participation) are treated as optional extras rather than as part of how a child learns to be present in the world.
 
 ## What we propose
 
@@ -27,13 +27,13 @@ An inclusive education and development model delivered inside an existing blind 
 
 We have already run and closed an audio-first music programme for children with visual impairment, and **published its full impact and closure report** — including what did not work. That report is public on our website.
 
-Our teaching method does not depend on Braille notation. It is built on listening, audio demonstration, spoken instruction, repetition, rhythmic cues, musical memory and hands-on practice — which is why it reaches students that notation-based music teaching cannot.
+Our teaching method does not depend on Braille notation. It is built on listening, audio demonstration, spoken instruction, repetition, rhythmic cues, musical memory and hands-on practice. That is why it reaches students notation-based music teaching cannot.
 
 ## How it runs
 
 Eight phases across the first year: **need assessment → baseline → resource development → training → regular programme → mentoring and exposure → monitoring → scale and sustainability.**
 
-We embed into an existing institution first. That gets resources to students quickly, builds the capacity of teachers already in the room, and avoids a parallel system that collapses when the funding ends.
+We start inside an institution that already exists. It gets resources to students faster, it builds up the teachers already in the room, and nothing collapses the day the funding ends.
 
 ## How you will know it worked
 
@@ -49,11 +49,11 @@ We embed into an existing institution first. That gets resources to students qui
 
 A **multi-year CSR or institutional partnership** covering one site end to end. Budget heads: learning materials, assistive technology, human resources, music and arts, accessibility infrastructure, student activities, monitoring and documentation, and administration.
 
-**A costed line-item budget is prepared per site** and sent on request — cost depends on student numbers, the host institution's existing facilities, and the assistive-technology specification we agree with you.
+**A costed line-item budget is prepared per site** and sent on request. Cost depends on student numbers, the host institution's existing facilities, and the assistive-technology specification we agree with you.
 
 ## What you get back
 
-Named multi-year partnership with defined milestones · quarterly narrative and financial reporting in your format · employee volunteering and mentorship opportunities · a published closure report · and a documented model your CSR team can point to and another institution can adopt.
+A named multi-year partnership with defined milestones · quarterly narrative and financial reporting in your format · employee volunteering and mentorship opportunities · a published closure report · and a documented model your CSR team can point to and another institution can adopt.
 
 ## Theory of change
 

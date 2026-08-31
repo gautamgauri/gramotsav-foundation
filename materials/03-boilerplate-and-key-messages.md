@@ -1,37 +1,37 @@
 # Boilerplate & Key Messages
 
-*Use these exactly as written so the organisation sounds like one organisation everywhere.*
+*Use these as written, so the organisation sounds like one organisation everywhere.*
 
 ---
 
 ## Boilerplate — 25 words
 
-Gramotsav Foundation is a Patna-based Section 8 non-profit using folk culture and music as a medium for inclusive learning, confidence and creative livelihood in Bihar.
+Gramotsav Foundation is a Patna-based Section 8 non-profit. We teach music and folk tradition to children in Bihar, mostly children the classroom has left behind.
 
 ## Boilerplate — 50 words
 
-Gramotsav Foundation is a Patna-based Section 8 non-profit working where folk culture meets inclusive education. We use music and the living traditions of Bihar — Bhojpuri, Maithili, Magahi — to build confidence, expression and creative livelihood for children whom conventional classrooms leave behind. Our guiding idea: *Mitti Se Manch Tak*, from the soil to the stage.
+Gramotsav Foundation is a Patna-based Section 8 non-profit. We teach with the living traditions of Bihar, the lok geet of Bhojpuri, Maithili and Magahi, and with instruments a child can learn by ear. The work is inclusive learning, confidence and creative livelihood. *Mitti Se Manch Tak*, from the soil to the stage.
 
 ## Boilerplate — 100 words
 
-Gramotsav Foundation is a Section 8 non-profit company registered in Patna, Bihar in March 2026. We work at the meeting point of three things: the folk traditions of rural and indigenous India, inclusive education for children with disability, and honest pathways from creative skill towards livelihood.
+Gramotsav Foundation is a Section 8 non-profit company registered in Patna, Bihar in March 2026. Three things meet in the work: the folk traditions of rural and indigenous India, inclusive education for children with disability, and realistic routes from creative skill towards a livelihood.
 
-Our completed *Learning Through Music* project taught instruments to children with visual impairment through an audio-first method that does not depend on Braille notation. Our *Blind School Project* extends that into a full inclusive-education model — accessible learning, assistive technology, life skills, arts, sports and career exposure.
+Our completed *Learning Through Music* project taught instruments to children with visual impairment by ear, through an audio-first method that does not depend on Braille notation. Our *Blind School Project* takes that further into a full inclusive-education model: accessible learning, assistive technology, life skills, arts, sports and career exposure.
 
-*Mitti Se Manch Tak* — from the soil to the stage.
+*Mitti Se Manch Tak*, from the soil to the stage.
 
 ---
 
 ## The three key messages
 
-**1. Culture is not decoration — it is pedagogy.**
-Folk tradition is the material we teach with, not the poster on the wall. Pride in one's own roots is itself a learning outcome.
+**1. Culture is not decoration here. It is what we teach with.**
+The lok geet, the dholak, the festival songs: that is the material, not the poster on the wall. A child who ends up proud of where they come from has learned something worth having.
 
 **2. Accessibility is designed in, not added later.**
-If a teaching method only works for a child who can see the notation, it is not our method. Our audio-first approach was built that way from the first session.
+If a method only works for a child who can see the page, it is not our method. The audio-first approach was built that way from the first baithak.
 
-**3. We talk about livelihood honestly.**
-We do not promise anyone a job. We show young people the real pathways — performance, teaching, ensemble work, recording, creative entrepreneurship — and we start that conversation during skill-building, not after it.
+**3. We say what music can and cannot get you.**
+We promise nobody a job. We do lay out the actual routes — performance, teaching, ensemble work, recording, running something of your own — and we start that conversation while the riyaz is still going on, not once it is over.
 
 ---
 
@@ -61,13 +61,18 @@ When participant numbers are counted and verified, add them here first, then eve
 
 ## Photo and consent discipline
 
-Our documented position, from the closure report: capture a student's journey through audio, photographs or video **where appropriate**, facilitator observations, performance records and student reflections — keeping the focus on **agency, achievement and growth, rather than presenting disability only through limitation**.
+Our documented position, from the closure report: capture a student's journey through audio, photographs or video **where appropriate**, facilitator observations, performance records and student reflections, keeping the focus on **agency, achievement and growth, rather than presenting disability only through limitation**.
 
 In practice:
 - Get consent from the parent or guardian *and* the school before any photograph is used publicly.
 - Do not caption a child as blind or visually impaired unless that is accurate and consented.
-- Prefer photographs of children **doing** something — playing, teaching, performing — over photographs of children being helped.
+- Prefer photographs of children **doing** something: playing, teaching, performing. Not photographs of children being helped.
 - Never publish a child's full name alongside a disability description.
+
+## What we publish and what we do not
+
+- **Published:** CIN, Section 8 licence number, registered office, PAN, both tax URNs and their validity. An Indian donor needs the PAN to claim the deduction, so it belongs in the open.
+- **Not published, sent directly:** TAN, and our bank account details. If account details for "Gramotsav Foundation" reach anybody by any other route, they should treat them as suspect until they have confirmed them with us.
 
 ## Things we must not claim
 
@@ -83,7 +88,7 @@ In practice:
 
 ```
 Gramotsav Foundation
-A. K. Road, Machuatoli, Patna Sadar, Patna – 800016, Bihar
+C/o Suraj Kumar, A. K. Road, Machuatoli, Patna Sadar, Patna – 800016, Bihar
 gramotsavfoundation@gmail.com · @gramotsavfoundation
 gautamgauri.github.io/gramotsav-foundation
 Section 8 non-profit company · CIN U88900BR2026NPL083562

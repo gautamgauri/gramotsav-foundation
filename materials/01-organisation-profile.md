@@ -6,13 +6,13 @@
 
 ## In one line
 
-Gramotsav Foundation is a Patna-based Section 8 non-profit that uses folk culture and music as a medium for inclusive learning, confidence and creative livelihood — especially for children whom conventional classrooms leave behind.
+Gramotsav Foundation is a Patna-based Section 8 non-profit. We use folk culture and music as the medium for inclusive learning, confidence and creative livelihood, mostly with children whom conventional classrooms leave behind.
 
 ## Who we are
 
-Gramotsav Foundation was incorporated as a Section 8 non-profit company in Patna, Bihar on **19 March 2026**. The name comes from the *gramotsav* — the village festival, the day a community gathers to sing, perform and hand its stories to the next generation.
+Gramotsav Foundation was incorporated as a Section 8 non-profit company in Patna, Bihar on **19 March 2026**. The name comes from the *gramotsav*, the village festival: the day a gaon gathers to sing, to perform, and to hand its stories to the next generation.
 
-We work at the meeting point of three things: the folk traditions of rural and indigenous India, inclusive education for children with disability, and honest pathways from creative skill towards livelihood. Our guiding idea is **"Mitti Se Manch Tak" — from the soil to the stage**.
+Our work joins three things: the folk traditions of rural and indigenous India, inclusive education for children with disability, and realistic pathways from creative skill towards a livelihood. Our guiding idea is **"Mitti Se Manch Tak", from the soil to the stage**.
 
 ## Our registered objects
 
@@ -32,18 +32,18 @@ We measure progress by how far along that arc a young person travels.
 ## What we have done
 
 **Learning Through Music** *(completed and formally closed)*
-An audio-first music programme for children and young people with visual impairment. Instrument instruction did not depend on Braille notation — students learned through guided listening, audio demonstration, spoken instruction, repetition, rhythmic cues, musical memory and hands-on practice, moving from individual learning into ensemble and band work, with a repertoire drawn from Bhojpuri, Maithili and Magahi traditions.
+An audio-first music programme for children and young people with visual impairment. Instrument instruction did not depend on Braille notation. Students learned through guided listening, audio demonstration, spoken instruction, repetition, rhythmic cues, musical memory and hands-on practice, moving from solo riyaz into ensemble and band work, with a repertoire drawn from the Bhojpuri, Maithili and Magahi traditions.
 
-A full impact and closure report — approach, journey, outcomes, key learnings and legacy — is published publicly on our website.
+A full impact and closure report (approach, journey, outcomes, key learnings and legacy) is published on our website.
 
 ## What we are raising for
 
 **Blind School Project** *(concept note ready; seeking CSR and institutional partners)*
-A comprehensive inclusive-education model for blind and visually impaired students, covering accessible academic material, assistive technology and digital literacy, life skills and independent living, music and the arts, sports and wellbeing, and career and vocational exposure — plus parent, teacher and community engagement.
+A comprehensive inclusive-education model for blind and visually impaired students, covering accessible academic material, assistive technology and digital literacy, life skills and independent living, music and the arts, sports and wellbeing, and career and vocational exposure, with parent, teacher and community engagement around all of it.
 
 Structured in eight implementation phases across a first year, with a defined monitoring framework, a risk register and an explicit sustainability strategy so the host institution can eventually own the model.
 
-**A costed, line-item budget is prepared per site** — cost depends on student numbers, the host institution's existing facilities, and the assistive-technology specification agreed with the partner.
+**A costed, line-item budget is prepared per site.** Cost depends on student numbers, the host institution's existing facilities, and the assistive-technology specification agreed with the partner.
 
 ## Registration and compliance
 
@@ -53,7 +53,8 @@ Structured in eight implementation phases across a first year, with a defined mo
 | Incorporated | 19 March 2026 |
 | CIN | U88900BR2026NPL083562 |
 | Section 8 licence | 182161 |
-| Registered office | A. K. Road, Machuatoli, Patna Sadar, Patna – 800016, Bihar |
+| Registered office | C/o Suraj Kumar, A. K. Road, Machuatoli, Patna Sadar, Patna – 800016, Bihar |
+| PAN | AAMCG9005G |
 | Tax registration (s.332) | URN AAMCG9005GE20261 — provisional, granted 24 Aug 2026 |
 | Donor deduction (s.354) | URN AAMCG9005GF20261 — provisional, granted 24 Aug 2026 |
 | Validity | TY 2026-27 to TY 2028-29 |
@@ -62,7 +63,7 @@ Structured in eight implementation phases across a first year, with a defined mo
 
 **Policies adopted and in force from 1 April 2026:** Finance, Procurement, Travel, and PoSH (Prevention, Prohibition and Redressal of Sexual Harassment at Workplace).
 
-*PAN and TAN are supplied directly during due diligence and are deliberately not published.*
+*Our PAN is published above because an Indian donor needs it to claim the deduction. TAN and bank details are not published anywhere; we supply those directly during due diligence.*
 
 ## Governance highlights a funder will ask about
 
@@ -78,4 +79,4 @@ Structured in eight implementation phases across a first year, with a defined mo
 **Email:** gramotsavfoundation@gmail.com
 **Instagram:** @gramotsavfoundation
 **Website:** https://gautamgauri.github.io/gramotsav-foundation/
-**Address:** A. K. Road, Machuatoli, Patna Sadar, Patna – 800016, Bihar, India
+**Address:** C/o Suraj Kumar, A. K. Road, Machuatoli, Patna Sadar, Patna – 800016, Bihar, India
