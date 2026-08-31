@@ -77,5 +77,5 @@ Structured in eight implementation phases across a first year, with a defined mo
 
 **Email:** gramotsavfoundation@gmail.com
 **Instagram:** @gramotsavfoundation
-**Website:** *(add GitHub Pages URL once live)*
+**Website:** https://gautamgauri.github.io/gramotsav-foundation/
 **Address:** A. K. Road, Machuatoli, Patna Sadar, Patna – 800016, Bihar, India

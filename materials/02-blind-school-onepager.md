@@ -74,5 +74,6 @@ Named multi-year partnership with defined milestones · quarterly narrative and 
 **Gramotsav Foundation** · Section 8 non-profit company · CIN U88900BR2026NPL083562
 Provisional tax registration and donor-deduction approval granted 24 August 2026
 gramotsavfoundation@gmail.com · @gramotsavfoundation · Patna, Bihar
+https://gautamgauri.github.io/gramotsav-foundation/
 
 > **Every child deserves a chance to learn, grow and perform.**

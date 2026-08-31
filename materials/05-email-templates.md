@@ -193,6 +193,7 @@
 Gramotsav Foundation
 A. K. Road, Machuatoli, Patna Sadar, Patna – 800016, Bihar
 gramotsavfoundation@gmail.com · @gramotsavfoundation
+gautamgauri.github.io/gramotsav-foundation
 Section 8 non-profit company · CIN U88900BR2026NPL083562
 मिट्टी से मंच तक — from the soil to the stage
 ```

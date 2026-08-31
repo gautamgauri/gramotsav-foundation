@@ -1,5 +1,7 @@
 # Gramotsav Foundation — website
 
+**Live: <https://gautamgauri.github.io/gramotsav-foundation/>**
+
 Static site for [Gramotsav Foundation](https://www.instagram.com/gramotsavfoundation/), a Section 8 non-profit in Patna, Bihar. Built to be hosted on GitHub Pages — no build step, no dependencies, no server.
 
 Structure and stylesheet are adapted from the `apna-foundation` site; content, palette and imagery are Gramotsav's own.
