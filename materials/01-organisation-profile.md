@@ -100,5 +100,5 @@ Structured in eight implementation phases across a first year, with a defined mo
 **Email:** gramotsavfoundation@gmail.com
 **Instagram:** @gramotsavfoundation
 **Partner organisations:** Manzil Mystics Foundation · Diksha Foundation · Kilkari Bihar Bal Bhavan · HHFC Trust · Kala Talks
-**Website:** https://gautamgauri.github.io/gramotsav-foundation/
+**Website:** https://gramotsav.org/
 **Address:** C/o Suraj Kumar, A. K. Road, Machuatoli, Patna Sadar, Patna – 800016, Bihar, India

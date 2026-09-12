@@ -1,6 +1,6 @@
 # Gramotsav Foundation — website
 
-**Live: <https://gautamgauri.github.io/gramotsav-foundation/>**
+**Live: <https://gramotsav.org/>**
 
 Static site for [Gramotsav Foundation](https://www.instagram.com/gramotsavfoundation/), a Section 8 non-profit in Patna, Bihar. Built to be hosted on GitHub Pages — no build step, no dependencies, no server.
 
@@ -61,7 +61,7 @@ All factual content is drawn from Gramotsav Foundation's own documents (shared 3
 - [ ] **Tax registration numbers.** `transparency.html` publishes the s.332 and s.354 URNs. Standard practice, but confirm Gramotsav is comfortable.
 - [ ] **Learning Through Music.** Confirm the project ran with a named partner school, and whether that school and any collaborating organisation should be credited.
 - [ ] **Participant numbers.** The site deliberately claims none. Add verified figures when they exist.
-- [ ] **Custom domain**, if wanted — add a `CNAME` file.
+- [x] **Custom domain.** `gramotsav.org`, registered by James on Namecheap (4 Sep 2026); `CNAME` file added 12 Sep. The old github.io address redirects. The `www` record in Namecheap still needs its typo fixed (`gitub` → `github`).
 
 ## Update — 31 August 2026
 
